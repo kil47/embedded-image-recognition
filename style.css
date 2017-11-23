@@ -1,0 +1,87 @@
+body {
+	font-family: arial;
+}
+
+#drop-container {
+	background: #ffffff;
+	min-height: 200px;
+	padding: 10px;
+	border: #07c6f1 2px dashed;
+	max-width: 600px;
+}
+
+.drop-area-text {
+	text-align: center;
+	color: #e0dfdf;
+	font-size: 1.5em;
+	padding-bottom: 20px;
+}
+
+.drop-image {
+	display: none;
+}
+
+.preview {
+	margin: 20px;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+body {
+	font-family: Arial;
+	font-size: 14px;
+}
+.bgColor {
+	max-width: 440px;
+	height:150px;
+	background-color: #fff4be;
+	border-radius: 4px;
+}
+.bgColor label{
+	font-weight: bold;
+	color: #A0A0A0;
+}
+#targetLayer{
+	float:left;
+	width:150px;
+	height:150px;
+	text-align:center;
+	line-height:150px;
+	font-weight: bold;
+	color: #C0C0C0;
+	background-color: #F0E8E0;
+	border-bottom-left-radius: 4px;
+	border-top-left-radius: 4px;
+}
+#uploadFormLayer{
+	float:left;
+	padding: 20px;
+}
+.btnSubmit {
+	background-color: #696969;
+	padding: 5px 30px;
+	border: #696969 1px solid;
+	border-radius: 4px;
+	color: #FFFFFF;
+	margin-top: 10px;
+}
+.inputFile {
+	padding: 5px;
+	background-color: #FFFFFF;
+	border:#F0E8E0 1px solid;
+	border-radius: 4px;
+}
+.image-preview {
+	width:150px;
+	height:150px;
+	border-bottom-left-radius: 4px;
+	border-top-left-radius: 4px;
+}
+
+@media screen and (max-width: 500px) {
+	.preview {
+		margin: 15px;
+		width: 100px;
+		height: 100px;
+	}
+}

@@ -1,0 +1,16 @@
+Install following directories in pip install python
+commands:
+1.install python2.7
+2.install pip in python
+3.pip install google.cloud
+4.pip install google.cloud vision
+
+
+Install the following API 
+1. npm install car-registration-api-india --save
+
+Set up Credential key for google.cloud vision using apikey.json file
+
+Install localserver
+1.Wamp or another
+2.Install Node JS

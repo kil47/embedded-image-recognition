@@ -1,0 +1,17 @@
+f=open('col.txt','w')
+f.write('Unable to find color')
+f.close()
+f=open('color.txt','w')
+f.write('Unable to find color')
+f.close()
+f=open('file.txt','w')
+f.write('Unable to find Labels')
+f.close()
+f=open('make.txt','w')
+f.write('Unable to find make/model')
+f.close()
+f=open('reg.txt','w')
+f.write('Unable to find Registration No')
+f.close()
+
+

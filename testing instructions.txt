@@ -1,0 +1,5 @@
+Testing instructions
+
+1. open 127.0.0.1/imageanalysis/
+2. upload image either by drag and drop or select from folder
+3. check the details
